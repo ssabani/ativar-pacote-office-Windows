@@ -6,7 +6,7 @@ Para ativar o pacote office basta executar o código abaixo no Powershell
 
 irm https://massgrave.dev/get | iex 
 
-
+-------------------------------------------------------------------------------------
 Código de ativação do Windows
 
 Para ativar o Windows basta executar os códigos abaixo no CMD como administrador 
